@@ -1,3 +1,10 @@
 {
-	"node": true
+    "esversion": 6,
+    "asi" : true,
+    "loopfunc": true,
+    "globals": {
+        "console": true,
+        "easyrtc": true,
+        "RTCPeerConnection": true
+    } 
 }
